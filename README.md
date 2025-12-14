@@ -1,6 +1,6 @@
 ***
 
-# Universal WSD Sentiment Analyzer
+# Universal WSD Sentiment Analyzer for both content and product reviews
 
 A full‑stack sentiment analysis application that combines a custom **Word Sense Disambiguation (WSD)** engine with a **lexicon‑based sentiment scorer** to handle modern slang like “sick”, “fire”, “cool”, etc. The backend is a Flask REST API and the frontend is a separate client app. It supports both **raw text input** and **URL input** (it fetches a web page and analyzes the extracted article text).
 
